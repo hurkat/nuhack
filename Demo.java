@@ -10,7 +10,7 @@ public class Demo {
 		int choice = sc.nextInt();
 		switch (choice) {
 		case 1:
-			//
+			System.out.println("Add");
 			break;
 		case 2:
 			//
